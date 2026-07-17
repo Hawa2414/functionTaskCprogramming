@@ -1,3 +1,2 @@
 # functionTaskCprogramming
-This program is done via C language to create a function and display the final price of a product after a discount.
-For practicing c language more.
+These tasks are done using C language. The topic is funtion. Each task perform a seperate and unique action using function concept in c language. 
